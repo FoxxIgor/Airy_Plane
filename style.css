@@ -1,0 +1,23 @@
+
+        body{
+            text-align: center;
+            font-size: 1.5em;
+            background-color: #ececec;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        #contestant-image{
+            width: 20%;
+        }
+
+        #contestant-name{
+            color:blue
+        }
+
+        #pls{
+            color:blue
+        }
+
+        
+     
+        
